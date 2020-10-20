@@ -1,0 +1,14 @@
+{
+  "name": "entriachallenge",
+  "version": "1.0.0",
+  "main": "index.js",
+  "private": true,
+  "workspaces": {
+    "packages": [
+      "packages/*"
+    ]
+  },
+  "repository": "https://github.com/georgebezerra/entriachallenge.git",
+  "author": "georgebezerra <george.contato@gmail.com>",
+  "license": "MIT"
+}
