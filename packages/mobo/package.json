@@ -1,6 +1,6 @@
 {
-  "name": "mobo",
-  "version": "0.0.1",
+  "name": "@entriachallenge/mobo",
+  "version": "1.0.0",
   "private": true,
   "scripts": {
     "android": "react-native run-android",
@@ -26,8 +26,7 @@
     "eslint": "^6.5.1",
     "jest": "^25.1.0",
     "metro-react-native-babel-preset": "^0.59.0",
-    "react-test-renderer": "16.13.1",
-    "typescript": "^3.8.3"
+    "react-test-renderer": "16.13.1"
   },
   "jest": {
     "preset": "react-native",
