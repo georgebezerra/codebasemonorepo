@@ -11,6 +11,7 @@
   "author": "georgebezerra <george.contato@gmail.com>",
   "license": "MIT",
   "devDependencies": {
-    "typescript": "^4.0.3"
+    "typescript": "^4.0.3",
+    "@entriachallenge/eslint-config": "*"
   }
 }
