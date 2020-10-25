@@ -9,5 +9,8 @@
   },
   "repository": "https://github.com/georgebezerra/entriachallenge.git",
   "author": "georgebezerra <george.contato@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^4.0.3"
+  }
 }
