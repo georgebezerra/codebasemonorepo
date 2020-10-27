@@ -4,9 +4,15 @@
   "main": "index.js",
   "license": "MIT",
   "scripts": {
-    "dev:server":"ts-node-dev src/index.ts"
+    "dev:server": "ts-node-dev src/index.ts"
   },
   "dependencies": {
+    "colors": "^1.4.0",
+    "koa": "^2.13.0",
     "ts-node-dev": "^1.0.0"
+  },
+  "devDependencies": {
+    "@types/colors": "^1.2.1",
+    "@types/koa": "^2.11.6"
   }
 }
