@@ -4,9 +4,7 @@
     "lib": ["esnext", "dom"],
     "allowJs": false,
     "checkJs": false,
-    "jsx": "react"
-  },
-  "include": [
-    "./src/**/*"
-  ]
+    "jsx": "react",
+    "outDir": "../../dist"
+  }
 }

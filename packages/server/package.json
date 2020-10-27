@@ -2,5 +2,11 @@
   "name": "@entriachallenge/server",
   "version": "1.0.0",
   "main": "index.js",
-  "license": "MIT"
+  "license": "MIT",
+  "scripts": {
+    "dev:server":"ts-node-dev src/index.ts"
+  },
+  "dependencies": {
+    "ts-node-dev": "^1.0.0"
+  }
 }
