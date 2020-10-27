@@ -1,6 +1,8 @@
 import * as Koa from 'koa'
 import 'colors'
 
+import { router } from './router'
+
 const app = new Koa()
 
 app.use((ctx, next) => {
@@ -8,5 +10,9 @@ app.use((ctx, next) => {
   return next()
 })
 
-app.listen(3000)
-console.log('Hello World'.blue.bold)
+app.use(router.routes())
+app.use(router.allowedMethods())
+
+app.listen(3000, () => {
+  console.log('Server id running'.blue.bold)
+})
