@@ -1,0 +1,35 @@
+version: '3.1'
+services:
+  mongo:
+    image: mongo
+    restart: always
+    environment:
+      MONGO_INITDB_ROOT_USERNAME: mongodb
+      MONGO_INITDB_ROOT_PASSWORD: mongodb
+    ports:
+      - "27017:27017"
+    volumes:
+      - "./src:/src/database"
+-------------------------------------------
+version: '2'
+services:
+  graph-api:
+    build: .
+    depends_on:
+      - mongo
+    links:
+      - mongo
+    environment:
+      NODE_ENV: development
+      MONGO_URL: mongodb://mongo/database
+    ports:
+      - "5000:5000"
+    volumes:
+      - "./src:/app/src"
+      - "./dist:/app/dist"
+    entrypoint: "npm run watch"
+
+  mongo:
+    image: mongo
+
+    comando -> docker-compose up -d mongo
