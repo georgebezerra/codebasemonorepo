@@ -1,17 +1,10 @@
-import { join } from 'path'
-import { readFileSync } from 'fs'
-import { makeExecutableSchema } from 'graphql-tools'
+import { buildSchemaSync } from 'type-graphql'
 
-import { resolvers } from './resolver'
+import TweetSchema from './tweet/TweetSchema'
+import TweetController from './tweet/TweetController'
 
-function createSchema() {
-  const schemaTxt = readFileSync(join(__dirname, 'schema.graphql'), {
-    encoding: 'utf-8'
-  })
-  const executableSchema = makeExecutableSchema({
-    typeDefs: schemaTxt,
-    resolvers
-  })
-  return executableSchema
-}
-export const schema = createSchema()
+const schema = buildSchemaSync({
+  resolvers: [TweetSchema, TweetController]
+})
+
+export default schema

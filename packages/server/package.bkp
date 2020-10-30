@@ -1,0 +1,35 @@
+{
+  "name": "@entriachallenge/server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "dev:server02": "ts-node-dev src/index.ts",
+    "dev:server": "ts-node-dev src/server.ts"
+  },
+  "dependencies": {
+    "@koa/router": "^9.4.0",
+    "apollo-server": "^2.18.2",
+    "class-validator": "^0.12.2",
+    "colors": "^1.4.0",
+    "dotenv": "^8.2.0",
+    "graphql": "^15.4.0",
+    "graphql-api-koa": "^6.0.0",
+    "graphql-tools": "^7.0.1",
+    "koa": "^2.13.0",
+    "koa-bodyparser": "^4.3.0",
+    "mongoose": "^5.10.11",
+    "reflect-metadata": "^0.1.13",
+    "ts-node-dev": "^1.0.0",
+    "type-graphql": "^1.1.0"
+  },
+  "devDependencies": {
+    "@types/colors": "^1.2.1",
+    "@types/graphql-api-koa": "^2.0.2",
+    "@types/koa": "^2.11.6",
+    "@types/koa-bodyparser": "^4.3.0",
+    "@types/koa__router": "^8.0.3",
+    "@types/mongoose": "^5.7.36",
+    "@types/node": "^14.14.5"
+  }
+}

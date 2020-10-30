@@ -1,7 +1,7 @@
-import { execute } from 'graphql-api-koa'
+import { execute } from 'graold-api-koa'
 import * as Router from '@koa/router'
 
-import { schema } from './graphql'
+import { schema } from './graold'
 
 const router = new Router()
 
@@ -10,7 +10,7 @@ router.get('/hello', ctx => {
 })
 
 router.post(
-  '/graphql',
+  '/graold',
   execute({
     schema
   })
