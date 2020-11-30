@@ -44,7 +44,7 @@ Packages  | Version
 ## Web Dependencies:
 Packages  | Version
 --------- | ------
-[React](https://github.com/facebook/react/blob/master/README.md) | ![img.png](https://raw.githubusercontent.com/georgebezerra/codebasemonorepo/main/badge/img.png)
+[React](https://github.com/facebook/react/blob/master/README.md) | ![img.png](https://camo.githubusercontent.com/475b49b04214dfa67c1ec8a2837888ae63003feb7b71fd45be30ff360148ad87/68747470733a2f2f696d672e736869656c64732e696f2f6e706d2f762f72656163742e7376673f7374796c653d666c6174)
 [React DOM](https://github.com/facebook/react/blob/master/packages/react-dom/README.md) | ![img.png](img.png)
 
 ## Mobile Dependencies:
