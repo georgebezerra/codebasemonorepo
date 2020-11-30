@@ -62,13 +62,13 @@ Packages  | Version
 [Colors](https://www.npmjs.com/package/colors) | ![img_8.png](https://img.shields.io/npm/v/colors.svg)
 [Bcryptjs](https://www.npmjs.com/package/bcryptjs) | ![img_3.png](https://img.shields.io/npm/v/bcryptjs.svg)
 [Express](https://github.com/expressjs/express/blob/master/Readme.md) | [![npm version](https://camo.githubusercontent.com/c031efcc66c1bfc646f4369604955b26f3e1dbcb/68747470733a2f2f696d672e736869656c64732e696f2f6e706d2f762f657870726573732e737667)](https://www.npmjs.com/package/express)
-[TypeGraphQL](https://www.npmjs.com/package/type-graphql) | ![img_9.png](img_9.png)
+[TypeGraphQL](https://www.npmjs.com/package/type-graphql) | ![img_9.png](https://camo.githubusercontent.com/422e661c2c725710087ef6252d9413ede425ddff81cfd67c4a9bffbb04a348fa/68747470733a2f2f62616467652e667572792e696f2f6a732f747970652d6772617068716c2e737667)
 [TypeScript](https://github.com/microsoft/TypeScript/blob/master/README.md) | [![npm version](https://camo.githubusercontent.com/020422d38770ea7d3eb37b8d8164001ba197b779/68747470733a2f2f62616467652e667572792e696f2f6a732f747970657363726970742e737667)](https://www.npmjs.com/package/typescript)
-[ClassValidator](https://www.npmjs.com/package/class-validator) | ![img_7.png](img_7.png)
-[ApolloServer](https://www.npmjs.com/package/apollo-server) | ![img_6.png](img_6.png)
-[GraphQL](https://www.npmjs.com/package/graphql) | ![img_5.png](img_5.png)
+[ClassValidator](https://www.npmjs.com/package/class-validator) | ![img_7.png](https://badgen.net/packagephobia/install/class-validator)
+[ApolloServer](https://www.npmjs.com/package/apollo-server) | ![img_6.png](https://d25lcipzij17d.cloudfront.net/badge.svg?id=js&type=6&v=2.19.0&x2=0)
+[GraphQL](https://www.npmjs.com/package/graphql) | ![img_5.png](https://d25lcipzij17d.cloudfront.net/badge.svg?id=js&type=6&v=15.4.0&x2=0)
 [Jest](https://github.com/facebook/jest/blob/master/README.md) | [![npm version](https://camo.githubusercontent.com/d231c42e928e671a80783fd28be8a6d6d4d70ea4/68747470733a2f2f62616467652e667572792e696f2f6a732f6a6573742e737667)](https://www.npmjs.com/package/jest)
-[Mongoose](https://www.npmjs.com/package/mongoose) | ![img_4.png](img_4.png)
+[Mongoose](https://www.npmjs.com/package/mongoose) | ![img_4.png](https://camo.githubusercontent.com/655896d1bb51187d0030fff4dd35a2034b5f44003fff7d17140f5dff3b3ef2ad/68747470733a2f2f62616467652e667572792e696f2f6a732f6d6f6e676f6f73652e737667)
 
 
 ## Prerequisites
