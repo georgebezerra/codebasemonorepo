@@ -45,13 +45,13 @@ Packages  | Version
 Packages  | Version
 --------- | ------
 [React](https://github.com/facebook/react/blob/master/README.md) | ![img.png](https://camo.githubusercontent.com/475b49b04214dfa67c1ec8a2837888ae63003feb7b71fd45be30ff360148ad87/68747470733a2f2f696d672e736869656c64732e696f2f6e706d2f762f72656163742e7376673f7374796c653d666c6174)
-[React DOM](https://github.com/facebook/react/blob/master/packages/react-dom/README.md) | ![img.png](img.png)
+[React DOM](https://github.com/facebook/react/blob/master/packages/react-dom/README.md) | ![img.png](https://camo.githubusercontent.com/475b49b04214dfa67c1ec8a2837888ae63003feb7b71fd45be30ff360148ad87/68747470733a2f2f696d672e736869656c64732e696f2f6e706d2f762f72656163742e7376673f7374796c653d666c6174)
 
 ## Mobile Dependencies:
 Packages  | Version
 --------- | ------
-[React](https://github.com/facebook/react/blob/master/README.md) | ![img.png](img.png)
-[React Native](https://github.com/facebook/react-native/blob/master/README.md) | ![img_1.png](img_1.png)
+[React](https://github.com/facebook/react/blob/master/README.md) | ![img.png](https://camo.githubusercontent.com/475b49b04214dfa67c1ec8a2837888ae63003feb7b71fd45be30ff360148ad87/68747470733a2f2f696d672e736869656c64732e696f2f6e706d2f762f72656163742e7376673f7374796c653d666c6174)
+[React Native](https://github.com/facebook/react-native/blob/master/README.md) | ![img_1.png](https://camo.githubusercontent.com/581876c6737fdf87aa502305c12f83af6fc0f1c9fdb4c40e359582d688c10c31/68747470733a2f2f696d672e736869656c64732e696f2f6e706d2f762f72656163742d6e61746976653f636f6c6f723d627269676874677265656e266c6162656c3d6e706d2532307061636b616765)
 
 
 
