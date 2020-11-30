@@ -58,9 +58,9 @@ Packages  | Version
 ## Backend Dependencies:
 Packages  | Version
 --------- | ------
-[TS-node-dev](https://github.com/whitecolor/ts-node-dev/blob/master/README.md) | ![img_2.png](img_2.png)
-[Colors](https://www.npmjs.com/package/colors) | ![img_8.png](img_8.png)
-[Bcryptjs](https://www.npmjs.com/package/bcryptjs) | ![img_3.png](img_3.png)
+[TS-node-dev](https://github.com/whitecolor/ts-node-dev/blob/master/README.md) | ![img_2.png](https://camo.githubusercontent.com/b0dacd325238c9791d76a43310e19cc97dcd210a4b41120b598e57ec83c79d7e/68747470733a2f2f696d672e736869656c64732e696f2f6e706d2f762f74732d6e6f64652d6465762e7376673f6d61784167653d3836343030)
+[Colors](https://www.npmjs.com/package/colors) | ![img_8.png](https://img.shields.io/npm/v/colors.svg)
+[Bcryptjs](https://www.npmjs.com/package/bcryptjs) | ![img_3.png](https://img.shields.io/npm/v/bcryptjs.svg)
 [Express](https://github.com/expressjs/express/blob/master/Readme.md) | [![npm version](https://camo.githubusercontent.com/c031efcc66c1bfc646f4369604955b26f3e1dbcb/68747470733a2f2f696d672e736869656c64732e696f2f6e706d2f762f657870726573732e737667)](https://www.npmjs.com/package/express)
 [TypeGraphQL](https://www.npmjs.com/package/type-graphql) | ![img_9.png](img_9.png)
 [TypeScript](https://github.com/microsoft/TypeScript/blob/master/README.md) | [![npm version](https://camo.githubusercontent.com/020422d38770ea7d3eb37b8d8164001ba197b779/68747470733a2f2f62616467652e667572792e696f2f6a732f747970657363726970742e737667)](https://www.npmjs.com/package/typescript)
