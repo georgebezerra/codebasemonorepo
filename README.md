@@ -137,7 +137,7 @@ yarn start
 
 ## Licence
 
-This project is open-source software licensed under the [GNU General Public License v3.0](https://github.com/georgebezerra/gostack-fundamentos-node/blob/master/LICENSE)
+This project is open-source software licensed under the [GNU General Public License v3.0](https://github.com/georgebezerra/codebasemonorepo/blob/main/LICENSE)
 
 ---
 
